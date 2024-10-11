@@ -1,0 +1,72 @@
+﻿@model Student
+@{
+    ViewData["Title"] = "Student Details";
+}
+
+<h1 class="bg-info text-white">Yeni Öğrenci Ekle</h1>
+<hr />
+<div class="row">
+    <div class="col-lg-8 col-md-8 col-sm-8">
+        <form asp-action="Create" asp-controller="Student">
+            <div class="form-group">
+                <label asp-for="@Model.StudentID" class="form-control">
+                    Student ID:
+                </label>
+                <input asp-for="@Model.StudentID" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.FirstName" class="form-control">
+                    FirstName :
+                </label>
+                <input asp-for="@Model.FirstName" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.LastName" class="form-control">
+                    LastName :
+                </label>
+                <input asp-for="@Model.LastName" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.StudentNumber" class="form-control">
+                    StudentNumber :
+                </label>
+                <input asp-for="@Model.StudentNumber" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.Address" class="form-control">
+                    Address :
+                </label>
+                <input asp-for="@Model.Address" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.StudentID" class="form-control">
+                    Student ID:
+                </label>
+                <input asp-for="@Model.StudentID" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.Gender.GenderID">Cinsiyet</label>
+                <select class="form-control">
+                    <option>Cinsiyet Seçiniz...</option>
+                    @foreach (Gender item in (List<Gender>)ViewData["Gender"])
+                    {
+                        <option value="@item.GenderID">@item.GenderName</option>
+                    }
+                </select>
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.Gender.GenderID">Cinsiyet</label>
+                <select class="form-control">
+                    <option>Cinsiyet Seçiniz...</option>
+                    @foreach (Country item in (List<Country>)ViewData["Country"])
+                    {
+                        <option value="@item.CountryID">@item.CountryName</option>
+                    }
+                </select>
+            </div>
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary">Kaydet</button>
+            </div>
+        </form>
+    </div>
+</div>

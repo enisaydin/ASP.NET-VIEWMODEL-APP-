@@ -1,0 +1,7 @@
+C:\Users\enisa\source\repos\ViewModelApp\ViewModelApp\obj\Debug\net8.0\ViewModelApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enisa\source\repos\ViewModelApp\ViewModelApp\obj\Debug\net8.0\ViewModelApp.AssemblyInfoInputs.cache
+C:\Users\enisa\source\repos\ViewModelApp\ViewModelApp\obj\Debug\net8.0\ViewModelApp.AssemblyInfo.cs
+C:\Users\enisa\source\repos\ViewModelApp\ViewModelApp\obj\Debug\net8.0\ViewModelApp.csproj.CoreCompileInputs.cache
+C:\Users\enisa\source\repos\ViewModelApp\ViewModelApp\obj\Debug\net8.0\ViewModelApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\enisa\source\repos\ViewModelApp\ViewModelApp\obj\Debug\net8.0\ViewModelApp.RazorAssemblyInfo.cache
+C:\Users\enisa\source\repos\ViewModelApp\ViewModelApp\obj\Debug\net8.0\ViewModelApp.RazorAssemblyInfo.cs

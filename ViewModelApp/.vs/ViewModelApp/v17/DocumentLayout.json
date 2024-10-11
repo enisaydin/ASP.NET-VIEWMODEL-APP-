@@ -1,0 +1,306 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\enisa\\source\\repos\\ViewModelApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AEDE8F-C226-4375-BBB9-5DD050E10827}|ViewModelApp\\ViewModelApp.csproj|c:\\users\\enisa\\source\\repos\\viewmodelapp\\viewmodelapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2AEDE8F-C226-4375-BBB9-5DD050E10827}|ViewModelApp\\ViewModelApp.csproj|solutionrelative:viewmodelapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AEDE8F-C226-4375-BBB9-5DD050E10827}|ViewModelApp\\ViewModelApp.csproj|c:\\users\\enisa\\source\\repos\\viewmodelapp\\viewmodelapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2AEDE8F-C226-4375-BBB9-5DD050E10827}|ViewModelApp\\ViewModelApp.csproj|solutionrelative:viewmodelapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AEDE8F-C226-4375-BBB9-5DD050E10827}|ViewModelApp\\ViewModelApp.csproj|c:\\users\\enisa\\source\\repos\\viewmodelapp\\viewmodelapp\\views\\futbolcu\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2AEDE8F-C226-4375-BBB9-5DD050E10827}|ViewModelApp\\ViewModelApp.csproj|solutionrelative:viewmodelapp\\views\\futbolcu\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AEDE8F-C226-4375-BBB9-5DD050E10827}|ViewModelApp\\ViewModelApp.csproj|c:\\users\\enisa\\source\\repos\\viewmodelapp\\viewmodelapp\\models\\mevki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2AEDE8F-C226-4375-BBB9-5DD050E10827}|ViewModelApp\\ViewModelApp.csproj|solutionrelative:viewmodelapp\\models\\mevki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AEDE8F-C226-4375-BBB9-5DD050E10827}|ViewModelApp\\ViewModelApp.csproj|c:\\users\\enisa\\source\\repos\\viewmodelapp\\viewmodelapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2AEDE8F-C226-4375-BBB9-5DD050E10827}|ViewModelApp\\ViewModelApp.csproj|solutionrelative:viewmodelapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AEDE8F-C226-4375-BBB9-5DD050E10827}|ViewModelApp\\ViewModelApp.csproj|c:\\users\\enisa\\source\\repos\\viewmodelapp\\viewmodelapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2AEDE8F-C226-4375-BBB9-5DD050E10827}|ViewModelApp\\ViewModelApp.csproj|solutionrelative:viewmodelapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AEDE8F-C226-4375-BBB9-5DD050E10827}|ViewModelApp\\ViewModelApp.csproj|c:\\users\\enisa\\source\\repos\\viewmodelapp\\viewmodelapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2AEDE8F-C226-4375-BBB9-5DD050E10827}|ViewModelApp\\ViewModelApp.csproj|solutionrelative:viewmodelapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AEDE8F-C226-4375-BBB9-5DD050E10827}|ViewModelApp\\ViewModelApp.csproj|c:\\users\\enisa\\source\\repos\\viewmodelapp\\viewmodelapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2AEDE8F-C226-4375-BBB9-5DD050E10827}|ViewModelApp\\ViewModelApp.csproj|solutionrelative:viewmodelapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AEDE8F-C226-4375-BBB9-5DD050E10827}|ViewModelApp\\ViewModelApp.csproj|c:\\users\\enisa\\source\\repos\\viewmodelapp\\viewmodelapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2AEDE8F-C226-4375-BBB9-5DD050E10827}|ViewModelApp\\ViewModelApp.csproj|solutionrelative:viewmodelapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AEDE8F-C226-4375-BBB9-5DD050E10827}|ViewModelApp\\ViewModelApp.csproj|c:\\users\\enisa\\source\\repos\\viewmodelapp\\viewmodelapp\\controllers\\futbolcucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2AEDE8F-C226-4375-BBB9-5DD050E10827}|ViewModelApp\\ViewModelApp.csproj|solutionrelative:viewmodelapp\\controllers\\futbolcucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AEDE8F-C226-4375-BBB9-5DD050E10827}|ViewModelApp\\ViewModelApp.csproj|c:\\users\\enisa\\source\\repos\\viewmodelapp\\viewmodelapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2AEDE8F-C226-4375-BBB9-5DD050E10827}|ViewModelApp\\ViewModelApp.csproj|solutionrelative:viewmodelapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AEDE8F-C226-4375-BBB9-5DD050E10827}|ViewModelApp\\ViewModelApp.csproj|c:\\users\\enisa\\source\\repos\\viewmodelapp\\viewmodelapp\\models\\takim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2AEDE8F-C226-4375-BBB9-5DD050E10827}|ViewModelApp\\ViewModelApp.csproj|solutionrelative:viewmodelapp\\models\\takim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AEDE8F-C226-4375-BBB9-5DD050E10827}|ViewModelApp\\ViewModelApp.csproj|c:\\users\\enisa\\source\\repos\\viewmodelapp\\viewmodelapp\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2AEDE8F-C226-4375-BBB9-5DD050E10827}|ViewModelApp\\ViewModelApp.csproj|solutionrelative:viewmodelapp\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AEDE8F-C226-4375-BBB9-5DD050E10827}|ViewModelApp\\ViewModelApp.csproj|c:\\users\\enisa\\source\\repos\\viewmodelapp\\viewmodelapp\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2AEDE8F-C226-4375-BBB9-5DD050E10827}|ViewModelApp\\ViewModelApp.csproj|solutionrelative:viewmodelapp\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AEDE8F-C226-4375-BBB9-5DD050E10827}|ViewModelApp\\ViewModelApp.csproj|c:\\users\\enisa\\source\\repos\\viewmodelapp\\viewmodelapp\\models\\futbolcu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2AEDE8F-C226-4375-BBB9-5DD050E10827}|ViewModelApp\\ViewModelApp.csproj|solutionrelative:viewmodelapp\\models\\futbolcu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AEDE8F-C226-4375-BBB9-5DD050E10827}|ViewModelApp\\ViewModelApp.csproj|c:\\users\\enisa\\source\\repos\\viewmodelapp\\viewmodelapp\\models\\viewmodel\\futbolcuaddvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2AEDE8F-C226-4375-BBB9-5DD050E10827}|ViewModelApp\\ViewModelApp.csproj|solutionrelative:viewmodelapp\\models\\viewmodel\\futbolcuaddvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AEDE8F-C226-4375-BBB9-5DD050E10827}|ViewModelApp\\ViewModelApp.csproj|c:\\users\\enisa\\source\\repos\\viewmodelapp\\viewmodelapp\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2AEDE8F-C226-4375-BBB9-5DD050E10827}|ViewModelApp\\ViewModelApp.csproj|solutionrelative:viewmodelapp\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mevki.cs",
+              "DocumentMoniker": "C:\\Users\\enisa\\source\\repos\\ViewModelApp\\ViewModelApp\\Models\\Mevki.cs",
+              "RelativeDocumentMoniker": "ViewModelApp\\Models\\Mevki.cs",
+              "ToolTip": "C:\\Users\\enisa\\source\\repos\\ViewModelApp\\ViewModelApp\\Models\\Mevki.cs",
+              "RelativeToolTip": "ViewModelApp\\Models\\Mevki.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T06:23:25.943Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\enisa\\source\\repos\\ViewModelApp\\ViewModelApp\\Program.cs",
+              "RelativeDocumentMoniker": "ViewModelApp\\Program.cs",
+              "ToolTip": "C:\\Users\\enisa\\source\\repos\\ViewModelApp\\ViewModelApp\\Program.cs",
+              "RelativeToolTip": "ViewModelApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T12:40:21.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\enisa\\source\\repos\\ViewModelApp\\ViewModelApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ViewModelApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\enisa\\source\\repos\\ViewModelApp\\ViewModelApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ViewModelApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T12:40:07.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\enisa\\source\\repos\\ViewModelApp\\ViewModelApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ViewModelApp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\enisa\\source\\repos\\ViewModelApp\\ViewModelApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ViewModelApp\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T12:39:30.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\enisa\\source\\repos\\ViewModelApp\\ViewModelApp\\Views\\Futbolcu\\Create.cshtml",
+              "RelativeDocumentMoniker": "ViewModelApp\\Views\\Futbolcu\\Create.cshtml",
+              "ToolTip": "C:\\Users\\enisa\\source\\repos\\ViewModelApp\\ViewModelApp\\Views\\Futbolcu\\Create.cshtml",
+              "RelativeToolTip": "ViewModelApp\\Views\\Futbolcu\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T06:40:32.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\enisa\\source\\repos\\ViewModelApp\\ViewModelApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ViewModelApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\enisa\\source\\repos\\ViewModelApp\\ViewModelApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ViewModelApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T06:21:23.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\enisa\\source\\repos\\ViewModelApp\\ViewModelApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ViewModelApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\enisa\\source\\repos\\ViewModelApp\\ViewModelApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ViewModelApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAIwBsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T06:17:59.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\enisa\\source\\repos\\ViewModelApp\\ViewModelApp\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "ViewModelApp\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\enisa\\source\\repos\\ViewModelApp\\ViewModelApp\\Models\\Student.cs",
+              "RelativeToolTip": "ViewModelApp\\Models\\Student.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T05:42:22.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\enisa\\source\\repos\\ViewModelApp\\ViewModelApp\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "ViewModelApp\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\enisa\\source\\repos\\ViewModelApp\\ViewModelApp\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "ViewModelApp\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAwAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T05:51:20.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FutbolcuController.cs",
+              "DocumentMoniker": "C:\\Users\\enisa\\source\\repos\\ViewModelApp\\ViewModelApp\\Controllers\\FutbolcuController.cs",
+              "RelativeDocumentMoniker": "ViewModelApp\\Controllers\\FutbolcuController.cs",
+              "ToolTip": "C:\\Users\\enisa\\source\\repos\\ViewModelApp\\ViewModelApp\\Controllers\\FutbolcuController.cs",
+              "RelativeToolTip": "ViewModelApp\\Controllers\\FutbolcuController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAABwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T06:30:39.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\enisa\\source\\repos\\ViewModelApp\\ViewModelApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ViewModelApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\enisa\\source\\repos\\ViewModelApp\\ViewModelApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ViewModelApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T12:39:16.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Takim.cs",
+              "DocumentMoniker": "C:\\Users\\enisa\\source\\repos\\ViewModelApp\\ViewModelApp\\Models\\Takim.cs",
+              "RelativeDocumentMoniker": "ViewModelApp\\Models\\Takim.cs",
+              "ToolTip": "C:\\Users\\enisa\\source\\repos\\ViewModelApp\\ViewModelApp\\Models\\Takim.cs",
+              "RelativeToolTip": "ViewModelApp\\Models\\Takim.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T06:25:13.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Futbolcu.cs",
+              "DocumentMoniker": "C:\\Users\\enisa\\source\\repos\\ViewModelApp\\ViewModelApp\\Models\\Futbolcu.cs",
+              "RelativeDocumentMoniker": "ViewModelApp\\Models\\Futbolcu.cs",
+              "ToolTip": "C:\\Users\\enisa\\source\\repos\\ViewModelApp\\ViewModelApp\\Models\\Futbolcu.cs",
+              "RelativeToolTip": "ViewModelApp\\Models\\Futbolcu.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T06:21:58.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FutbolcuAddVM.cs",
+              "DocumentMoniker": "C:\\Users\\enisa\\source\\repos\\ViewModelApp\\ViewModelApp\\Models\\ViewModel\\FutbolcuAddVM.cs",
+              "RelativeDocumentMoniker": "ViewModelApp\\Models\\ViewModel\\FutbolcuAddVM.cs",
+              "ToolTip": "C:\\Users\\enisa\\source\\repos\\ViewModelApp\\ViewModelApp\\Models\\ViewModel\\FutbolcuAddVM.cs",
+              "RelativeToolTip": "ViewModelApp\\Models\\ViewModel\\FutbolcuAddVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T06:28:16.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\enisa\\source\\repos\\ViewModelApp\\ViewModelApp\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "ViewModelApp\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\enisa\\source\\repos\\ViewModelApp\\ViewModelApp\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "ViewModelApp\\Views\\Student\\Index.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T05:52:38.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\enisa\\source\\repos\\ViewModelApp\\ViewModelApp\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "ViewModelApp\\Models\\Country.cs",
+              "ToolTip": "C:\\Users\\enisa\\source\\repos\\ViewModelApp\\ViewModelApp\\Models\\Country.cs",
+              "RelativeToolTip": "ViewModelApp\\Models\\Country.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T05:50:43.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\enisa\\source\\repos\\ViewModelApp\\ViewModelApp\\Models\\Gender.cs",
+              "RelativeDocumentMoniker": "ViewModelApp\\Models\\Gender.cs",
+              "ToolTip": "C:\\Users\\enisa\\source\\repos\\ViewModelApp\\ViewModelApp\\Models\\Gender.cs",
+              "RelativeToolTip": "ViewModelApp\\Models\\Gender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T05:50:30.623Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
